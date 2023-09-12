@@ -1,0 +1,11 @@
+[{"marca": "Bandai",
+   "nombre" : "goku",
+   "precio" : 2000,
+   "stock" : 2
+
+},{"marca": "Baai",
+"nombre" : "gou",
+"precio" : 200,
+"stock" : 3
+
+}]
